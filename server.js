@@ -1,6 +1,10 @@
 const express = require('express');
 
-let PORT = process.env.PORT || 8080;
+const port = process.env.PORT || 8080;
+// ...
+server.listen(port, () => {
+  console.log(`Listening on http://localhost:${port}/`);
+});
 
 const app = express();
 
