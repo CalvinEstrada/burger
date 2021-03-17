@@ -2,6 +2,8 @@ const express = require('express');
 
 let PORT = process.env.PORT || 8080;
 
+const server = http.createServer(app);
+
 const app = express();
 
 // Serve static content for the app from the "public" directory in the application directory.
