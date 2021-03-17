@@ -2,7 +2,7 @@ const express = require('express');
 
 let PORT = process.env.PORT || 8080;
 
-const server = http.createServer(app);
+
 
 const app = express();
 
