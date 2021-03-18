@@ -7,13 +7,13 @@ if (process.env.JAWSDB_URL) {
   connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
   connection = mysql.createConnection({
-    host: "localhost",
+    host: "	xlf3ljx3beaucz9x.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     port: 3306,
-    user: "root",
-    password: "",
+    user: "e0dcwwk68ifva4w4",
+    password: "	xms0bhfkxdq45kp1",
     database: "burgers_db",
   });
-}
+}git 
 
 // Make connection.
 connection.connect(function(err) {
