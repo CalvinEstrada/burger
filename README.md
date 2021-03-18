@@ -4,3 +4,13 @@ Attempt to complete homework assignment as described in instructions. If unable 
  
  
  #Installation
+ Clone the repo into your local computer then,
+ NPM Install, To use you would need to create a db in mysql called burger_db, after that open the db folder and clone data to mysql
+and insert your data(username, password/etc) into the connection.js file in the config folder.
+
+![screenshot](https://github.com/CalvinEstrada/burger/blob/Master/images/Capture.PNG?raw=true)
+
+![screenshot](https://github.com/CalvinEstrada/burger/blob/Master/images/Capture2.PNG?raw=true)
+
+### ISSUES
+I have not been able to deploy to heroku and cannot figure what is causing the errors. I know it was required and I've tried every possible solution including completely remaking the homework several times.
