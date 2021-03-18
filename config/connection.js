@@ -14,7 +14,7 @@ if (process.env.JAWSDB_URL) {
     password: "",
     database: "burgers_db",
   });
-}git 
+}
 
 // Make connection.
 connection.connect(function(err) {
