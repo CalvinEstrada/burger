@@ -32,7 +32,7 @@
   }
 
   .display-4 {
-    color: #0400ff;
+    color: #136100;
     text-align: center;
     font-size: 30px;
     margin: 0 auto;
@@ -42,7 +42,7 @@ h2 {
   margin: 15px;
   line-height: 1.2;
   font-weight: bold;
-  color:  #1100ff
+  color:  #136100
 }
 
   h1,
@@ -107,7 +107,7 @@ h2 {
   }
   
   body {
-    background-color: #fff;
+    background-color: rgb(130, 240, 255);
     font-family: 'Source Sans Pro', !important;
   }
   
@@ -148,7 +148,7 @@ h2 {
   }
   
   body .list-box {
-    background-color: #84e5f7;
+    background-color: #fdbde8;
     border-radius: 7px;
     width: 100%;
   }
